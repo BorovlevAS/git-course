@@ -1,1 +1,2 @@
-print ("some changes");
+console.log('hello!');
+console.log('git changes');
